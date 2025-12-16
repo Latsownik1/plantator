@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# .NET / MAUI
+bin/
+obj/
+
+# Rider cache
+.rider/
+.DS_Store
