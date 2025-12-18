@@ -1,14 +1,19 @@
-\# macOS
+# macOS
 .DS_Store
 
 # Rider / JetBrains
 .idea/
 *.sln.iml
+.rider/
 
 # .NET / MAUI
 bin/
 obj/
 
-# Rider cache
-.rider/
-.DS_Store
+# Build artifacts
+*.user
+*.userosscache
+*.suo
+*.nupkg
+packages/
+
