@@ -20,15 +20,13 @@ Dzięki Plantatorowi możesz dodawać rośliny, przeglądać je w katalogu, a ta
 
 
 ```
-erp-backend/
-├── src/                  # Source code
-│   └── index.js          # Main application entry point
-├── tests/                # Test files
-├── config/               # Configuration files
-├── .gitignore            # Git ignore file
-├── package.json          # Project dependencies and scripts
-├── README.md             # Project documentation
-└── LICENSE               # License file
+plantator/
+├─ Views/          # Widoki XAML
+├─ Resources/      # Obrazy, fonty, style
+├─ Platforms/      # Pliki specyficzne dla platform
+├─ db/             # Lokalna baza danych
+└─ Plantator.csproj
+
 ```
 
 
