@@ -19,11 +19,12 @@ Dzięki Plantatorowi możesz dodawać rośliny, przeglądać je w katalogu, a ta
 ## 🗂 Struktura projektu
 
 plantator/
-├─ Views/ # Widoki XAML
-├─ Resources/ # Obrazy, fonty, style
-├─ Platforms/ # Pliki specyficzne dla platform
-├─ db/ # Lokalna baza danych
+├─ Views/          # Widoki XAML
+├─ Resources/      # Obrazy, fonty, style
+├─ Platforms/      # Pliki specyficzne dla platform
+├─ db/             # Lokalna baza danych
 └─ Plantator.csproj
+
 
 ---
 
